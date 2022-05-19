@@ -263,6 +263,7 @@ body {
                     width: 100%;
                     border: 0px;
                     flex-grow: 1;
+                    outline: none;
                 }
             .buttoninvite {
                 margin-left: 20px;
